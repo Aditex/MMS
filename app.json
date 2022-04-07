@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MMS",
+    "slug": "MMS",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MMS"
+}
